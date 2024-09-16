@@ -22,8 +22,6 @@
 - **Prisa** (experiência)
 - **Drizzle-ORM** (em estudo)
 
-### Caso queiram testar algo, basta clonar o repositorio.
-### Caso seja uma aplicação back-end.
 
 
 
