@@ -17,6 +17,7 @@
 
 ### Estilização
 - **TailwindCSS**
+- **CSS3**
 
 ### ORM
 - **Prisa** (experiência)
