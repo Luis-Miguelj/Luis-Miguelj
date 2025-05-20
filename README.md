@@ -19,27 +19,27 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 ### 🔧 Tecnologias que utilizo
 
 <table>
-  <tr>
-    <th align="center">🖥️ Frontend</th>
-    <th align="center">🎨 Estilização</th>
-    <th align="center">🛠️ Backend</th>
-    <th align="center">📦 ORM</th>
+  <tr padding="5" display="flex" flex-direction="column">
+    <th>🖥️ Frontend</th>
+    <th>🎨 Estilização</th>
+    <th>🛠️ Backend</th>
+    <th>📦 ORM</th>
   </tr>
-  <tr>
-    <td align="center">
+  <tr padding="5">
+    <td display="flex" flex-direction="column">
       ⚛️ React.js <br />
       ⚡ Next.js <br />
       🟨 JavaScript <br />
       🟦 TypeScript
     </td>
-    <td align="center">
+    <td display="flex" flex-direction="column">
       💨 Tailwind CSS <br />
       🎨 CSS3
     </td>
-    <td align="center">
+    <td display="flex" flex-direction="column">
       🌐 Node.js
     </td>
-    <td align="center">
+    <td display="flex" flex-direction="column">
       🟣 Prisma <br />
       🌱 Drizzle ORM
     </td>
