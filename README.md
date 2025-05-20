@@ -18,22 +18,33 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 
 ### 🔧 Tecnologias que utilizo
 
-#### Frontend
-- ⚛️ React.js
-- ⚡ Next.js
-- 🟨 JavaScript
-- 🟦 TypeScript
-
-#### Estilização
-- 💨 Tailwind CSS
-- 🎨 CSS3
-
-#### Backend
-- 🌐 Node.js
-
-#### ORM
-- 🟣 Prisma (experiência prática)
-- 🌱 Drizzle ORM (em estudo)
+<table>
+  <tr>
+    <th align="center">🖥️ Frontend</th>
+    <th align="center">🎨 Estilização</th>
+    <th align="center">🛠️ Backend</th>
+    <th align="center">📦 ORM</th>
+  </tr>
+  <tr>
+    <td align="center">
+      ⚛️ React.js <br />
+      ⚡ Next.js <br />
+      🟨 JavaScript <br />
+      🟦 TypeScript
+    </td>
+    <td align="center">
+      💨 Tailwind CSS <br />
+      🎨 CSS3
+    </td>
+    <td align="center">
+      🌐 Node.js
+    </td>
+    <td align="center">
+      🟣 Prisma <br />
+      🌱 Drizzle ORM
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,7 +52,6 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 
 #### 🏢 **Técnico em Informática & Orçamentista** — *Prosolar | Jun/2023 - presente*
 - Participação em projetos de TI
-- Migração de sistemas de estoque, faturamento e e-commerce
 - Manutenção e formatação de computadores
 - Instalação de softwares
 - Suporte técnico aos usuários
@@ -51,6 +61,7 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 #### 🧑‍💼 **Estagiário de TI** — *Calçados Furlanetto | Jan/2023 - Mar/2023*
 - Apoio em infraestrutura de TI
 - Suporte básico ao usuário e manutenção de equipamentos
+- Migração de sistemas de estoque, faturamento e e-commerce
 
 ---
 
