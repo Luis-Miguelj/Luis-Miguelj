@@ -18,7 +18,7 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 
 ### 🔧 Tecnologias que utilizo
 
-<table>
+<table width="900">
   <tr padding="5" display="flex" flex-direction="column">
     <th>🖥️ Frontend</th>
     <th>🎨 Estilização</th>
