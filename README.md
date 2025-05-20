@@ -57,7 +57,7 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luismiguel&show_icons=true&theme=radical" />
+  <img height="full" src="https://github-readme-stats.vercel.app/api?username=luismiguel&show_icons=true&theme=radical" />
 </div>
 
 ---
