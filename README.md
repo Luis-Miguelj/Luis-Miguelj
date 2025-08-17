@@ -76,7 +76,7 @@ Embora minha experiência profissional esteja mais voltada para **infraestrutura
 ### 📫 Contato
 
 - 📧 Email: luismigueljacobus01@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/luis-miguel](https://www.linkedin.com/in/luis-miguel-a41975247/)
+- 💼 LinkedIn: [www.linkedin.com/in/luis-miguel](https://www.linkedin.com/in/luis-miguel-jacobus-a41975247/)
 
 ---
 
